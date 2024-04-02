@@ -1,3 +1,3 @@
 <div id="header" align="center">
- <iframe src="https://giphy.com/embed/VekcnHOwOI5So" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/digital-VekcnHOwOI5So">via GIPHY</a></p>
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDhkdWw2NHZ3ZTgwdHp4bXFnYmh6cW1qbTQ3endmb2F3b2RvMXI5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif" width="100"/>
 </div>
